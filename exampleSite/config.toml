@@ -1,10 +1,10 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://blog.guidorossi.ar/"
 # title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+author = "Guido Rossi"
+copyright = ""
 paginate = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "es"
+DefaultContentLanguage = "es"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -17,12 +17,12 @@ title = "Paper"
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  twitter = 'guidorossi'
+  github = 'guidorossi'
+  instagram = ''
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
+  avatar = ''
+  name = 'Guido'
   bio = 'Discover fresh context'
 # ------------------------------
 
